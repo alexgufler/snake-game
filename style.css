@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #193549;
+}
+
+h1 {
+    margin-bottom: 25px;
+    font-family: monospace;
+    font-size: 50px;
+    color: #FFC600;
+}
+
+#canvas {
+    border: 1px solid #FFC600;
+}
